@@ -15,8 +15,6 @@ public class MathMethod {
     /**the function checks if the user wants to exit
      * pre:a=1 or a=2
      * post:if the input is 1,then continue,if the input is 2,quit the current interface
-     * @param a user input
-     * @return boolean value that if the user wants to exit 
      */
     public static boolean exitCheck(int a){
         //check if the user input is valid
